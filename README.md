@@ -35,7 +35,7 @@ The Post Title Case Converter plugin is a powerful tool that allows you to easil
 
 ## Installation
 
-1. Download the plugin zip file from the [Plugin URI](https://lancedesk.com/).
+1. Download the plugin zip file.
 2. In your WordPress admin panel, go to "Plugins" -> "Add New".
 3. Click on the "Upload Plugin" button and select the downloaded zip file.
 4. Click on the "Install Now" button and activate the plugin.
