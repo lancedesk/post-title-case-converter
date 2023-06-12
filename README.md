@@ -1,14 +1,14 @@
 # post-title-case-converter
 
- === WordPress Post Title Case Converter Plugin ===
-Contributors: Robert June, Lance Desk
-Donate link: https://urlmr.com/donate 
-Requires at least: 4.7
-Tested up to: 6.2
+ * WordPress Post Title Case Converter Plugin
+ * Contributors: Robert June, Lance Desk
+ * Donate link: https://urlmr.com/donate 
+ * Requires at least: 4.7
+ * Tested up to: 6.2
  * Requires PHP: 7.0
-Stable tag: 1.0.8
-License: GPLv3
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
+ * Stable tag: 1.0.8
+ * License: GPLv3
+ * License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
