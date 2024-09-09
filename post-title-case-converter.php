@@ -1,18 +1,21 @@
 <?php
+
 /*
  * Plugin Name: Post Title Case Converter
  * Plugin URI: https://lancedesk.com/post-title-case-converter
  * Description: A plugin to convert post titles to different cases.
- * Version: 1.0.8
+ * Version: 1.1.0
  * Author: Robert June
- * Author URI: https://lancedesk.com/
- * Text Domain: post-title-case-converter
+ * Author URI: https://lancedesk.com
+ * Text Domain: ptc-converter
  * Domain Path: /languages
  * Requires at least: 4.7
- * Tested up to: 6.1
+ * Tested up to: 6.5
  * Requires PHP: 7.0
- * License: GPLv2
- * License URI: https://www.gnu.org/licenses/gpl-2.0.html
+ * Stable tag: 1.1.0
+ * Beta tag: 1.1.1
+ * License: GPLv3
+ * License URI: https://www.gnu.org/licenses/gpl-3.0.html
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -32,6 +35,6 @@
 
 defined( 'ABSPATH' ) || exit;
 
-require_once plugin_dir_path(__FILE__) . 'includes/post-title-case-converter-functions.php';
-require_once plugin_dir_path(__FILE__) . 'includes/post-title-case-converter-admin.php';
-require_once plugin_dir_path(__FILE__) . 'includes/post-title-case-converter-ajax.php';
+require_once plugin_dir_path(__FILE__) . 'includes/ptc-converter-functions.php';
+require_once plugin_dir_path(__FILE__) . 'includes/ptc-converter-admin.php';
+require_once plugin_dir_path(__FILE__) . 'includes/ptc-converter-ajax.php';
