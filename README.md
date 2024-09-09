@@ -1,6 +1,16 @@
-# Post Case Converter Plugin
+# Post Case Converter
 
-The Post Title Case Converter plugin is a powerful tool that allows you to easily convert the titles of post types in WordPress to different cases. Whether you want to convert post titles to uppercase, lowercase, or capitalized case, this plugin has got you covered.
+A powerful tool that allows you to easily convert the titles of post types in WordPress to different cases (uppercase, lowercase, or capitalized).
+
+- Contributors: Robert June, Lance Desk
+- Tags: title editor, post title editor, post title changer
+- Requires at least: 6.0
+- Tested up to: 6.5
+- Requires PHP: 7.4
+- Stable tag: 1.1.0
+- Beta tag: 1.1.1
+- License: GPLv3
+- License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 ## Features
 
@@ -28,9 +38,9 @@ The Post Title Case Converter plugin is a powerful tool that allows you to easil
 ## Requirements
 
  * Requires at least WordPress: 4.7
- * Tested up to WordPress: 6.2
+ * Tested up to: 6.2
  * Requires PHP: 7.0
- * Stable tag: 1.0.8
+ * Stable tag: 1.1.1
 
 ## Author
 Robert June, Lance Desk
