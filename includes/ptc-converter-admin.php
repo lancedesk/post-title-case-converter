@@ -54,7 +54,7 @@ function ptc_converter_page()
                     foreach ($query->posts as $index => $post) {
                         $post_id = $post->ID;
                         $post_title = $post->post_title;
-                        $converted_title = convert_title_case($post_title, $selected_case);
+                        $converted_title = ptc_convert_title_case($post_title, $selected_case);
                         echo '<tr>';
                         echo '<td>' . esc_html(($index + 1)) . '</td>';
                         echo '<td>' . esc_html($post_title) . '</td>';
