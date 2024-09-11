@@ -17,7 +17,7 @@ function ptc_converter_enqueue_scripts()
 add_action('admin_enqueue_scripts', 'ptc_converter_enqueue_scripts');
 
 /* Function to convert title case */
-function convert_title_case($title, $case)
+function ptc_convert_title_case($title, $case)
 {
     switch ($case)
     {
